@@ -27,6 +27,12 @@ form{
   background-color: rgba(33,33,33,0.8);
 }
 
+
+.project-details div{
+  background-color: rgba(33,33,33,0.8);
+}
+
+
 form button, form h5{
   margin: 10px 0;
 }
